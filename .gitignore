@@ -1,1 +1,10 @@
 Data
+cat_vs_dog
+*.csv
+*.pdf
+*.pptx
+*.docx
+*.xlsx
+*.zip
+*.mp4
+*.ipynb_checkpoints
